@@ -1,6 +1,6 @@
 ### Hi there, I'm Collins Musoko👋!
 
-👨‍💻Currently, a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full Stack Web Developer.
+👨‍💻Currently, a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
 
 #### Whats going on🙌:
 
