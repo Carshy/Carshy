@@ -1,7 +1,7 @@
 <!-- Greetings -->
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, Welcome to my profile!
+	Hi, welcome to my profile!
 	<img align="center" src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px">
 </h1>
 <br/>
