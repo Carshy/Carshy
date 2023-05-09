@@ -26,7 +26,12 @@
 <hr/>
 
 <!-- Introduction -->
-My name is [Collins Musoko](https://github.com/Carshy?tab=repositories), and I'm a Software Engineer living in Nairobi, Kenya. Currently, I'm pursuing Full-Stack development in Microverse. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with web development.
+◼ 💻I am [Collins Musoko](https://github.com/Carshy?tab=repositories), a Full-Stack Web Developer from Nairobi, Kenya<br>
+◼ 👩‍💻 My primary skills are JavaScript, React & Redux, Ruby, and Ruby on Rails.<br>
+◼ 💖I love the ability that programming gives me to create anything that I can imagine, just like MAGIC ✨.<br>
+◼ 🌱 I am also a persistent learner with a great passion for technology, books, adventure, cooking, and people.<br>
+◼ ⁉ I embrace challenges because solving them makes me grow and is also fun.<br>
+◼ 💥I take great care in the experience, architecture, and code quality of the things I build.
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/Carshy/github-readme-streak-stats -->
