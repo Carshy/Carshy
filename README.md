@@ -6,7 +6,7 @@
 </h1>
 <br/>
  <p>
-  <img align="center" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="400px" />
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="300px" />
 </p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -22,8 +22,9 @@
 	
 </p>
 <!--<img src="https://komarev.com/ghpvc/?username=Carshy&label=Profile%20Views&color=blue&style=plastic" align='right' alt="Carshy" />
-<!--<img src="https://gpvc.arturio.dev/Carshy" alt="Profile views" align='right'/> <a href="https://github.com/Carshy/Carshy"> </a>-->
-<hr/>
+<!--<img src="https://gpvc.arturio.dev/Carshy" alt="Profile views" align='right'/> <a href="https://github.com/Carshy/Carshy"> </a>--><br>
+<br><br><br><br><br>
+<hr />
 
 <!-- Introduction -->
 ◼ 💻I am [Collins Musoko](https://github.com/Carshy?tab=repositories), a Full-Stack Web Developer from Nairobi, Kenya<br>
